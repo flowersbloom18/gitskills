@@ -9,3 +9,4 @@
 //env
 
 //func login/register
+//mysql config
