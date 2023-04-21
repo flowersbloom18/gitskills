@@ -11,3 +11,4 @@
 //func login/register
 //mysql config
 //function  test
+//del config
